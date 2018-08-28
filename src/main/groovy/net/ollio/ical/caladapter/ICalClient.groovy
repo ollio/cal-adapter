@@ -1,4 +1,4 @@
-package net.bozan.ical.caladapter
+package net.ollio.ical.caladapter
 
 import net.fortuna.ical4j.data.CalendarBuilder
 import net.fortuna.ical4j.model.Calendar

@@ -1,4 +1,4 @@
-package net.bozan.ical.caladapter
+package net.ollio.ical.caladapter
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication

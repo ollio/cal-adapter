@@ -1,4 +1,4 @@
-package net.bozan.ical.caladapter
+package net.ollio.ical.caladapter
 
 import org.junit.Test
 import org.junit.runner.RunWith
